@@ -3,112 +3,6 @@
     <display-name>MeTV</display-name>
     <icon src="https://new.mjh.nz/.images/metv.png"/>
   </channel>
-  <programme channel="metv" start="20240516110000 +0000" stop="20240516120000 +0000">
-    <title>Toon In With Me</title>
-    <sub-title>Fools Of The Road</sub-title>
-    <desc>"Bill teaches Toony the rules of the road so he can get his driver's license."</desc>
-  </programme>
-  <programme channel="metv" start="20240516120000 +0000" stop="20240516123000 +0000">
-    <title>Leave It to Beaver</title>
-    <sub-title>Beaver's Old Friend</sub-title>
-    <episode-num system="onscreen">S01E32</episode-num>
-    <desc>Wally and Beaver are helping Ward clean out the garage when they run across Beaver's old teddy bear, Billy. Beaver reluctantly throws him away after Ward and Wally tell him he's too old for dolls. However, Beaver changes his mind but he's too late: the garbage truck came, which leads Beaver to take drastic measures to get him back.</desc>
-  </programme>
-  <programme channel="metv" start="20240516123000 +0000" stop="20240516130000 +0000">
-    <title>Leave It to Beaver</title>
-    <sub-title>Wally's Job</sub-title>
-    <episode-num system="onscreen">S01E33</episode-num>
-    <desc>Wally jumps at the chance to paint a couple of garbage cans for Ward, who offers 50 cents a piece. However, when Eddie tells Wally that his father was charged $3.00 to have his painted, he becomes disinterested in the job and Beaver takes it over.</desc>
-  </programme>
-  <programme channel="metv" start="20240516130000 +0000" stop="20240516140000 +0000">
-    <title>Perry Mason</title>
-    <sub-title>The Case Of The Tell-tale Tap</sub-title>
-    <episode-num system="onscreen">S08E18</episode-num>
-    <desc>When the niece of the head of an investment firm is found dead, the company's financial comptroller is charged with her murder.</desc>
-  </programme>
-  <programme channel="metv" start="20240516140000 +0000" stop="20240516150000 +0000">
-    <title>Matlock</title>
-    <sub-title>The Assassination: Part 2  (s6, ep)</sub-title>
-    <desc>Matlock and his daughter, Leanne, become mired in a case involving local politics and murder when the town mayor is assassinated and soon after that a judge is implicated in another death.</desc>
-  </programme>
-  <programme channel="metv" start="20240516150000 +0000" stop="20240516160000 +0000">
-    <title>In the Heat of the Night</title>
-    <sub-title>The Law On Trial: Part 2</sub-title>
-    <episode-num system="onscreen">S05E22</episode-num>
-    <desc>Gillespie, Tibbs and Father DiMarco must stand trial for harboring a fugitive and obstructing justice. Althea fears Virgil's career could suffer if he is found guilty. Meanwhile the other officers monitor the situation with Lawyer Epp and his mafia associates.</desc>
-  </programme>
-  <programme channel="metv" start="20240516160000 +0000" stop="20240516170000 +0000">
-    <title>The Waltons</title>
-    <sub-title>The Theft</sub-title>
-    <episode-num system="onscreen">S02E04</episode-num>
-    <desc>The disappearance of some valuable silver pieces throws suspicion on one of the Waltons</desc>
-  </programme>
-  <programme channel="metv" start="20240516170000 +0000" stop="20240516180000 +0000">
-    <title>Gunsmoke</title>
-    <sub-title>The Bounty Hunter</sub-title>
-    <episode-num system="onscreen">S11E07</episode-num>
-    <desc>A bounty hunter comes out of retirement to find the man who murdered a rich rancher's son.</desc>
-  </programme>
-  <programme channel="metv" start="20240516180000 +0000" stop="20240516190000 +0000">
-    <title>Bonanza</title>
-    <sub-title>The Lonely Man</sub-title>
-    <episode-num system="onscreen">S13E15</episode-num>
-    <desc>Hop Sing falls in love with a young woman, but his heart is broken when a judge confirms that the law prohibits interracial marriage.</desc>
-  </programme>
-  <programme channel="metv" start="20240516190000 +0000" stop="20240516193000 +0000">
-    <title>The Rifleman</title>
-    <sub-title>Old Man Running (aka The Wanted Man)</sub-title>
-    <episode-num system="onscreen">S05E24</episode-num>
-    <desc>Lucas, who blames his wife's death on his father-in-law, refuses to help the old man elude gunmen.</desc>
-  </programme>
-  <programme channel="metv" start="20240516193000 +0000" stop="20240516200000 +0000">
-    <title>The Rifleman</title>
-    <sub-title>Which Way'd They Go?</sub-title>
-    <episode-num system="onscreen">S05E25</episode-num>
-    <desc>The notoriously lazy Jackman brothers discover their mortgage has been foreclosed.</desc>
-  </programme>
-  <programme channel="metv" start="20240516200000 +0000" stop="20240516210000 +0000">
-    <title>Wagon Train</title>
-    <sub-title>The Barbara Lindquist Story</sub-title>
-    <episode-num system="onscreen">S08E05</episode-num>
-    <desc>"Cooper Smith is on his way to the town of Washburn to pick up long awaited mail for the wagon train when he stumbles upon a stagecoach robbery in progress. The very proper Miss Barbara Lindquist is on her way to meet her fiancé, mistakes Coop for one of the robbers and ends up forcing him to help her. Further misadventures see Coop wounded and both he and Barbara struggling to get to back to the wagon train for help. Believing his wound will end his days as a scout, Coop finds himself falling in love with Barbara and she with him. But will their love stand the test ..."</desc>
-  </programme>
-  <programme channel="metv" start="20240516210000 +0000" stop="20240516213000 +0000">
-    <title>Adam-12</title>
-    <sub-title>Log 43 -- Hostage</sub-title>
-    <episode-num system="onscreen">S02E12</episode-num>
-    <desc>Malloy and several civilians are taken hostage after he is shot and seriously injured by robbers while stopping for lunch at Duke's Longhorn Café.</desc>
-  </programme>
-  <programme channel="metv" start="20240516213000 +0000" stop="20240516220000 +0000">
-    <title>Adam-12</title>
-    <sub-title>Log 34 -- Astro</sub-title>
-    <episode-num system="onscreen">S02E13</episode-num>
-    <desc>Malloy and Reed become envious of officer wells, who has been given a coveted assignment in the newly established astro helicopter division. Out on patrol, they require assistance saving a wealthy elderly couple who get locked in their heavily fortified basement safe, and then use air support to track down robbery suspects who escape on a motorcycle.</desc>
-  </programme>
-  <programme channel="metv" start="20240516220000 +0000" stop="20240516223000 +0000">
-    <title>M*A*S*H</title>
-    <sub-title>Our Finest Hour (part 1)</sub-title>
-    <desc>"Newscaster Clete Roberts, reprising an earlier interview appearance, returns to update Korean War conditions, when he conducts a series of television talks with the leading characters of the 4077th. 
-"</desc>
-  </programme>
-  <programme channel="metv" start="20240516223000 +0000" stop="20240516230000 +0000">
-    <title>M*A*S*H</title>
-    <sub-title>Our Finest Hour</sub-title>
-    <episode-num system="onscreen">S07E04</episode-num>
-    <desc>Newscaster Clete Roberts, reprising an earlier interview appearance, returns to update Korean War conditions, when he conducts a series of television talks with the leading characters of the 4077th.</desc>
-  </programme>
-  <programme channel="metv" start="20240516230000 +0000" stop="20240516233000 +0000">
-    <title>M*A*S*H</title>
-    <sub-title>The Billfold Syndrome</sub-title>
-    <episode-num system="onscreen">S07E05</episode-num>
-    <desc>Charles becomes so irate when he is turned down for a future medical position at home that he refuses to talk to anyone in the unit, until Hawkeye and B.J. send him a false telegram from home. Meanwhile, a young soldier, Jerry Wilson, can't remember his own identity, so Sidney Freedman is called for help.</desc>
-  </programme>
-  <programme channel="metv" start="20240516233000 +0000" stop="20240517000000 +0000">
-    <title>M*A*S*H</title>
-    <sub-title>None Like It Hot</sub-title>
-    <episode-num system="onscreen">S07E06</episode-num>
-    <desc>As the temperatures reach triple digits, Hawkeye and B.J. receive their new rubber bathtub from Abercrombie &amp; Fitch. However, soon the whole camp is hot under the collar as word leaks out about the tub and everyone wants a dip, except for Klinger, who is trying to get his Section 8 by wearing a fur coat.</desc>
-  </programme>
   <programme channel="metv" start="20240517000000 +0000" stop="20240517003000 +0000">
     <title>The Andy Griffith Show</title>
     <sub-title>The Sermon For Today</sub-title>
@@ -1258,6 +1152,7 @@
   <programme channel="metv" start="20240522110000 +0000" stop="20240522120000 +0000">
     <title>Toon In With Me</title>
     <sub-title>Animated Toys</sub-title>
+    <desc>"Bill and Toony take a look at animated TV series that were inspired by toys!"</desc>
   </programme>
   <programme channel="metv" start="20240522120000 +0000" stop="20240522123000 +0000">
     <title>Leave It to Beaver</title>
