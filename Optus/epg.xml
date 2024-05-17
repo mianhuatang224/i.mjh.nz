@@ -11,111 +11,6 @@
     <display-name>Premier League Channel</display-name>
     <icon src="https://static.sport.optus.com.au/resources/static/568b3ee0-4923-40c2-aebe-c226b8da3db9_premierleaguerebrandsdesignstudio01.jpg"/>
   </channel>
-  <programme channel="os1" start="20240516000000 +0000" stop="20240516003000 +0000">
-    <title>PL Rewind</title>
-    <sub-title>Episode 40</sub-title>
-    <desc>[CC]Episode 40</desc>
-  </programme>
-  <programme channel="os1" start="20240516003000 +0000" stop="20240516023000 +0000">
-    <title>Manchester United v Newcastle</title>
-    <sub-title>Episode 337</sub-title>
-    <desc>Manchester United v Newcastle</desc>
-  </programme>
-  <programme channel="os1" start="20240516023000 +0000" stop="20240516033000 +0000">
-    <title>PL Stories</title>
-    <sub-title>#43</sub-title>
-    <desc>[CC]#43</desc>
-  </programme>
-  <programme channel="os1" start="20240516033000 +0000" stop="20240516053000 +0000">
-    <title>Brighton and Hove Albion v Chelsea</title>
-    <sub-title>Episode 338</sub-title>
-    <desc>Brighton and Hove Albion v Chelsea</desc>
-  </programme>
-  <programme channel="os1" start="20240516053000 +0000" stop="20240516060000 +0000">
-    <title>PL Rewind</title>
-    <sub-title>Episode 40</sub-title>
-    <desc>[CC]Episode 40</desc>
-  </programme>
-  <programme channel="os1" start="20240516060000 +0000" stop="20240516080000 +0000">
-    <title>Manchester United v Newcastle</title>
-    <sub-title>Episode 337</sub-title>
-    <desc>Manchester United v Newcastle</desc>
-  </programme>
-  <programme channel="os1" start="20240516080000 +0000" stop="20240516090000 +0000">
-    <title>PL Stories</title>
-    <sub-title>#43</sub-title>
-    <desc>[CC]#43</desc>
-  </programme>
-  <programme channel="os1" start="20240516090000 +0000" stop="20240516093000 +0000">
-    <title>Hungry Jack's Football Bite</title>
-    <sub-title>Episode 37</sub-title>
-    <desc>[CC]Episode 37</desc>
-  </programme>
-  <programme channel="os1" start="20240516093000 +0000" stop="20240516094500 +0000">
-    <title>J.League Highlights Show</title>
-    <sub-title>Episode 9</sub-title>
-    <desc>[CC]Episode 9</desc>
-  </programme>
-  <programme channel="os1" start="20240516094500 +0000" stop="20240516113000 +0000">
-    <title>Brighton and Hove Albion v Chelsea</title>
-    <sub-title>Episode 338</sub-title>
-    <desc>Brighton and Hove Albion v Chelsea</desc>
-  </programme>
-  <programme channel="os1" start="20240516113000 +0000" stop="20240516123000 +0000">
-    <title>PL Stories</title>
-    <sub-title>#43</sub-title>
-    <desc>[CC]#43</desc>
-  </programme>
-  <programme channel="os1" start="20240516123000 +0000" stop="20240516130000 +0000">
-    <title>The Big Interview</title>
-    <sub-title>Episode 41</sub-title>
-    <desc>[CC]Episode 41</desc>
-  </programme>
-  <programme channel="os1" start="20240516130000 +0000" stop="20240516150000 +0000">
-    <title>Tottenham v Manchester City</title>
-    <sub-title>Episode 332</sub-title>
-    <desc>[CC]Tottenham v Manchester City</desc>
-  </programme>
-  <programme channel="os1" start="20240516150000 +0000" stop="20240516153000 +0000">
-    <title>PL Rewind</title>
-    <sub-title>Episode 40</sub-title>
-    <desc>[CC]Episode 40</desc>
-  </programme>
-  <programme channel="os1" start="20240516153000 +0000" stop="20240516173000 +0000">
-    <title>Manchester United v Newcastle</title>
-    <sub-title>Episode 337</sub-title>
-    <desc>Manchester United v Newcastle</desc>
-  </programme>
-  <programme channel="os1" start="20240516173000 +0000" stop="20240516180000 +0000">
-    <title>PL Rewind</title>
-    <sub-title>Episode 40</sub-title>
-    <desc>[CC]Episode 40</desc>
-  </programme>
-  <programme channel="os1" start="20240516180000 +0000" stop="20240516200000 +0000">
-    <title>Tottenham v Manchester City</title>
-    <sub-title>Episode 332</sub-title>
-    <desc>[CC]Tottenham v Manchester City</desc>
-  </programme>
-  <programme channel="os1" start="20240516200000 +0000" stop="20240516210000 +0000">
-    <title>PL Stories</title>
-    <sub-title>#43</sub-title>
-    <desc>[CC]#43</desc>
-  </programme>
-  <programme channel="os1" start="20240516210000 +0000" stop="20240516213000 +0000">
-    <title>PL Rewind</title>
-    <sub-title>Episode 40</sub-title>
-    <desc>[CC]Episode 40</desc>
-  </programme>
-  <programme channel="os1" start="20240516213000 +0000" stop="20240516233000 +0000">
-    <title>Tottenham v Manchester City</title>
-    <sub-title>Episode 332</sub-title>
-    <desc>[CC]Tottenham v Manchester City</desc>
-  </programme>
-  <programme channel="os1" start="20240516233000 +0000" stop="20240517000000 +0000">
-    <title>PL Rewind</title>
-    <sub-title>Episode 40</sub-title>
-    <desc>[CC]Episode 40</desc>
-  </programme>
   <programme channel="os1" start="20240517000000 +0000" stop="20240517020000 +0000">
     <title>Aston Villa v Liverpool</title>
     <sub-title>Episode 369</sub-title>
@@ -385,116 +280,6 @@
     <title>LIVE: The Weekend Wrap</title>
     <sub-title>Episode 35</sub-title>
     <desc>[CC]Episode 35</desc>
-  </programme>
-  <programme channel="os12" start="20240516000000 +0000" stop="20240516020000 +0000">
-    <title>LaLiga TV</title>
-    <sub-title>LaLiga EA Sports</sub-title>
-    <desc>LALIGA EA SPORTS 2023/2024 MD36</desc>
-  </programme>
-  <programme channel="os12" start="20240516020000 +0000" stop="20240516023000 +0000">
-    <title>LaLiga TV</title>
-    <sub-title>LaLiga Chronicles</sub-title>
-    <desc>LaLiga Chronicles 2023/2024</desc>
-  </programme>
-  <programme channel="os12" start="20240516023000 +0000" stop="20240516043000 +0000">
-    <title>LaLiga TV</title>
-    <sub-title>LaLiga EA Sports</sub-title>
-    <desc>LALIGA EA SPORTS 2023/2024 MD36</desc>
-  </programme>
-  <programme channel="os12" start="20240516043000 +0000" stop="20240516063000 +0000">
-    <title>LaLiga TV</title>
-    <sub-title>LaLiga EA Sports</sub-title>
-    <desc>LALIGA EA SPORTS 2023/2024 MD36</desc>
-  </programme>
-  <programme channel="os12" start="20240516063000 +0000" stop="20240516073000 +0000">
-    <title>LaLiga TV</title>
-    <sub-title>LaLiga Live</sub-title>
-    <desc>LaLiga Live Post-Match 2023/2024</desc>
-  </programme>
-  <programme channel="os12" start="20240516073000 +0000" stop="20240516080000 +0000">
-    <title>LaLiga TV</title>
-    <sub-title>LaLiga Fans</sub-title>
-    <desc>LaLiga Fans 2023/2024</desc>
-  </programme>
-  <programme channel="os12" start="20240516080000 +0000" stop="20240516100000 +0000">
-    <title>LaLiga TV</title>
-    <sub-title>LaLiga EA Sports</sub-title>
-    <desc>LALIGA EA SPORTS 2023/2024 MD36</desc>
-  </programme>
-  <programme channel="os12" start="20240516100000 +0000" stop="20240516120000 +0000">
-    <title>LaLiga TV</title>
-    <sub-title>LaLiga Classics</sub-title>
-    <desc>Liga Espa�ola 2010/2011 J12</desc>
-  </programme>
-  <programme channel="os12" start="20240516120000 +0000" stop="20240516123000 +0000">
-    <title>LaLiga TV</title>
-    <sub-title>LaLiga Chronicles</sub-title>
-    <desc>LaLiga Chronicles 2023/2024</desc>
-  </programme>
-  <programme channel="os12" start="20240516123000 +0000" stop="20240516130000 +0000">
-    <title>LaLiga TV</title>
-    <sub-title>LaLiga World</sub-title>
-    <desc>LaLiga World 2023/2024</desc>
-  </programme>
-  <programme channel="os12" start="20240516130000 +0000" stop="20240516133000 +0000">
-    <title>LaLiga TV</title>
-    <sub-title>LaLiga News</sub-title>
-    <desc>LaLiga News 2023/2024</desc>
-  </programme>
-  <programme channel="os12" start="20240516133000 +0000" stop="20240516153000 +0000">
-    <title>LaLiga TV</title>
-    <sub-title>LaLiga EA Sports</sub-title>
-    <desc>LALIGA EA SPORTS 2023/2024 MD36</desc>
-  </programme>
-  <programme channel="os12" start="20240516153000 +0000" stop="20240516160000 +0000">
-    <title>LaLiga TV</title>
-    <sub-title>LaLiga Chronicles</sub-title>
-    <desc>LaLiga Chronicles 2023/2024</desc>
-  </programme>
-  <programme channel="os12" start="20240516160000 +0000" stop="20240516163000 +0000">
-    <title>LaLiga TV</title>
-    <sub-title>LaLiga World</sub-title>
-    <desc>LaLiga World 2023/2024</desc>
-  </programme>
-  <programme channel="os12" start="20240516163000 +0000" stop="20240516173000 +0000">
-    <title>LaLiga TV</title>
-    <sub-title>LaLiga Live</sub-title>
-    <desc>LaLiga Live Pre-Match 2023/2024</desc>
-  </programme>
-  <programme channel="os12" start="20240516173000 +0000" stop="20240516193000 +0000">
-    <title>LaLiga TV</title>
-    <sub-title>LaLiga EA Sports</sub-title>
-    <desc>LALIGA EA SPORTS 2023/2024 MD36</desc>
-  </programme>
-  <programme channel="os12" start="20240516193000 +0000" stop="20240516213000 +0000">
-    <title>LaLiga TV</title>
-    <sub-title>LaLiga EA Sports</sub-title>
-    <desc>LALIGA EA SPORTS 2023/2024 MD36</desc>
-  </programme>
-  <programme channel="os12" start="20240516213000 +0000" stop="20240516223000 +0000">
-    <title>LaLiga TV</title>
-    <sub-title>LaLiga Live</sub-title>
-    <desc>LaLiga Live Post-Match 2023/2024</desc>
-  </programme>
-  <programme channel="os12" start="20240516223000 +0000" stop="20240516224500 +0000">
-    <title>LaLiga TV</title>
-    <sub-title>Matches Highlights</sub-title>
-    <desc>Matches Highlights LALIGA EA SPORTS 2023/2024 MD36</desc>
-  </programme>
-  <programme channel="os12" start="20240516224500 +0000" stop="20240516230000 +0000">
-    <title>LaLiga TV</title>
-    <sub-title>Matches Highlights</sub-title>
-    <desc>Matches Highlights LALIGA EA SPORTS 2023/2024 MD36</desc>
-  </programme>
-  <programme channel="os12" start="20240516230000 +0000" stop="20240516231500 +0000">
-    <title>LaLiga TV</title>
-    <sub-title>Matches Highlights</sub-title>
-    <desc>Matches Highlights LALIGA EA SPORTS 2023/2024 MD36</desc>
-  </programme>
-  <programme channel="os12" start="20240516231500 +0000" stop="20240517010000 +0000">
-    <title>LaLiga TV</title>
-    <sub-title>LaLiga EA Sports</sub-title>
-    <desc>LALIGA EA SPORTS 2023/2024 MD36</desc>
   </programme>
   <programme channel="os12" start="20240517010000 +0000" stop="20240517020000 +0000">
     <title>LaLiga TV</title>
@@ -1146,145 +931,115 @@
     <sub-title>LaLiga Tactics </sub-title>
     <desc>LaLiga Tactics 2023/2024</desc>
   </programme>
-  <programme channel="os11" start="20240516000000 +0000" stop="20240516003000 +0000">
-    <title>MATCH HIGHLIGHTS 23/24 MW37 Brighton &amp; Hove Albion v Chelsea</title>
-    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  <programme channel="os12" start="20240523000000 +0000" stop="20240523003000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Chronicles</sub-title>
+    <desc>LaLiga Chronicles 2023/2024</desc>
   </programme>
-  <programme channel="os11" start="20240516003000 +0000" stop="20240516010000 +0000">
-    <title>MATCH HIGHLIGHTS 23/24 MW37 Manchester United v Newcastle United</title>
-    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  <programme channel="os12" start="20240523003000 +0000" stop="20240523023000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD37</desc>
   </programme>
-  <programme channel="os11" start="20240516010000 +0000" stop="20240516020000 +0000">
-    <title>PL GOATS EP06: WAYNE ROONEY</title>
-    <sub-title>Owen Hargreaves is joined by five time Premier League winner Wayne Rooney, as they took an in-depth look at the career of one of the greatest English players of all time.</sub-title>
+  <programme channel="os12" start="20240523023000 +0000" stop="20240523043000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD37</desc>
   </programme>
-  <programme channel="os11" start="20240516020000 +0000" stop="20240516023000 +0000">
-    <title>PL REWIND EP40: JURGEN KLOPP</title>
-    <sub-title>On the final PL Rewind of the season we look back at five of the most memorable matches from the Jurgen Klopp era at Liverpool.</sub-title>
+  <programme channel="os12" start="20240523043000 +0000" stop="20240523063000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD37</desc>
   </programme>
-  <programme channel="os11" start="20240516023000 +0000" stop="20240516030000 +0000">
-    <title>MATCH HIGHLIGHTS 23/24 MW37 Aston Villa v Liverpool</title>
-    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  <programme channel="os12" start="20240523063000 +0000" stop="20240523080000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Viva LaLiga</sub-title>
+    <desc>Viva LaLiga 2023/2024</desc>
   </programme>
-  <programme channel="os11" start="20240516030000 +0000" stop="20240516033000 +0000">
-    <title>MATCH HIGHLIGHTS 23/24 MW37 Tottenham Hotspur v Manchester City</title>
-    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  <programme channel="os12" start="20240523080000 +0000" stop="20240523100000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD37</desc>
   </programme>
-  <programme channel="os11" start="20240516033000 +0000" stop="20240516043000 +0000">
-    <title>PL STORIES EP50: (Subbed) ANGE POSTECOGLOU</title>
-    <sub-title>From humble beginnings as a footballer in Melbourne to becoming Tottenham’s manager, we chart the meteoric rise of Australian Ange Postecoglou. We speak to those that knew him best to find out what makes him tick and delve into his unique coaching style that has brought him success wherever he’s been.</sub-title>
+  <programme channel="os12" start="20240523100000 +0000" stop="20240523120000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Classics</sub-title>
+    <desc>LaLiga 2017/2018 MD30</desc>
   </programme>
-  <programme channel="os11" start="20240516043000 +0000" stop="20240516053000 +0000">
-    <title>THE CATCH-UP SHOW EP40</title>
-    <sub-title>The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</sub-title>
+  <programme channel="os12" start="20240523120000 +0000" stop="20240523123000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Chronicles</sub-title>
+    <desc>LaLiga Chronicles 2023/2024</desc>
   </programme>
-  <programme channel="os11" start="20240516053000 +0000" stop="20240516060000 +0000">
-    <title>MATCH HIGHLIGHTS 23/24 MW37 Brighton &amp; Hove Albion v Chelsea</title>
-    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  <programme channel="os12" start="20240523123000 +0000" stop="20240523130000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Tactics </sub-title>
+    <desc>LaLiga Tactics 2023/2024</desc>
   </programme>
-  <programme channel="os11" start="20240516060000 +0000" stop="20240516063000 +0000">
-    <title>MATCH HIGHLIGHTS 23/24 MW37 Manchester United v Newcastle United</title>
-    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  <programme channel="os12" start="20240523130000 +0000" stop="20240523133000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga News</sub-title>
+    <desc>LaLiga News 2023/2024</desc>
   </programme>
-  <programme channel="os11" start="20240516063000 +0000" stop="20240516070000 +0000">
-    <title>PL STORIES EP12: (Subbed) LOUIS SAHA</title>
-    <sub-title>‘Petit Louis’, raised in the northern suburbs of Paris, grew to be one of the greatest strikers of his generation, before a succession of injuries ground his career to a halt. ‘King Louis’ himself tells us the story of what made him rise to the top, with insight from the coaches and teammates that helped guide him along the way.</sub-title>
+  <programme channel="os12" start="20240523133000 +0000" stop="20240523150000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Viva LaLiga</sub-title>
+    <desc>Viva LaLiga 2023/2024</desc>
   </programme>
-  <programme channel="os11" start="20240516070000 +0000" stop="20240516080000 +0000">
-    <title>PL GOATS EP02: THE CHAMPIONS</title>
-    <sub-title>Will Perry is joined by Premier League winners Owen Hargreaves and Peter Schmeichel to discuss the best title-winning teams in the Premier League era. Expect insightful anecdotes, interesting archive and lively debate across a packed hour-long programme.</sub-title>
+  <programme channel="os12" start="20240523150000 +0000" stop="20240523153000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Chronicles</sub-title>
+    <desc>LaLiga Chronicles 2023/2024</desc>
   </programme>
-  <programme channel="os11" start="20240516080000 +0000" stop="20240516083000 +0000">
-    <title>PL STORIES EP01: (Subbed) ARSENE WENGER HALL OF FAME SPECIAL</title>
-    <sub-title>One of only two managers to have been inducted into the Premier League Hall of fame, Arsene Wenger lifted three Premier League trophies and was in charge of Arsenal when they went a whole season in the top flight unbeaten. We speak to him to find out how the man very few people knew when he arrived in North London, became the Legend that no-one will forget.</sub-title>
+  <programme channel="os12" start="20240523153000 +0000" stop="20240523160000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga World</sub-title>
+    <desc>LaLiga World 2023/2024</desc>
   </programme>
-  <programme channel="os11" start="20240516083000 +0000" stop="20240516090000 +0000">
-    <title>PL STORIES EP48: HALL OF FAME 2024 INDUCTEES</title>
-    <sub-title>We head to London to go behind the scenes at the Premier League Hall of fame event night and meet the three newest inductees to secure their place amongst English footballs elite!</sub-title>
+  <programme channel="os12" start="20240523160000 +0000" stop="20240523163000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Show</sub-title>
+    <desc>LaLiga Show 2023/2024</desc>
   </programme>
-  <programme channel="os11" start="20240516090000 +0000" stop="20240516093000 +0000">
-    <title>MATCH HIGHLIGHTS 23/24 MW37 Manchester United v Newcastle United</title>
-    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  <programme channel="os12" start="20240523163000 +0000" stop="20240523170000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga News</sub-title>
+    <desc>LaLiga News 2023/2024</desc>
   </programme>
-  <programme channel="os11" start="20240516093000 +0000" stop="20240516100000 +0000">
-    <title>MATCH HIGHLIGHTS 23/24 MW37 Brighton &amp; Hove Albion v Chelsea</title>
-    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  <programme channel="os12" start="20240523170000 +0000" stop="20240523183000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Viva LaLiga</sub-title>
+    <desc>Viva LaLiga 2023/2024</desc>
   </programme>
-  <programme channel="os11" start="20240516100000 +0000" stop="20240516103000 +0000">
-    <title>PL STORIES EP41: ROBERTO DE ZERBI</title>
-    <sub-title>Last summer Brighton and Hove Albion qualified for European competition for the first time in their history. The man responsible for leading the club to their highest ever league placing, Roberto De Zerbi, sits down with PL Stories to reflect on his own playing career back in his homeland of Italy, the experiences that helped to shape him as a manager, and what the future may hold for one of the most forward-thinking coaches in the games.</sub-title>
+  <programme channel="os12" start="20240523183000 +0000" stop="20240523190000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Talking Football</sub-title>
+    <desc>LaLiga Talking Football 2023/2024</desc>
   </programme>
-  <programme channel="os11" start="20240516103000 +0000" stop="20240516113000 +0000">
-    <title>THE CATCH-UP SHOW EP40</title>
-    <sub-title>The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</sub-title>
+  <programme channel="os12" start="20240523190000 +0000" stop="20240523210000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga EA Sports</sub-title>
+    <desc>LALIGA EA SPORTS 2023/2024 MD37</desc>
   </programme>
-  <programme channel="os11" start="20240516113000 +0000" stop="20240516123000 +0000">
-    <title>PL STORIES EP50: (Subbed) ANGE POSTECOGLOU</title>
-    <sub-title>From humble beginnings as a footballer in Melbourne to becoming Tottenham’s manager, we chart the meteoric rise of Australian Ange Postecoglou. We speak to those that knew him best to find out what makes him tick and delve into his unique coaching style that has brought him success wherever he’s been.</sub-title>
+  <programme channel="os12" start="20240523210000 +0000" stop="20240523213000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Tactics </sub-title>
+    <desc>LaLiga Tactics 2023/2024</desc>
   </programme>
-  <programme channel="os11" start="20240516123000 +0000" stop="20240516130000 +0000">
-    <title>THE BIG INTERVIEW EP41: (Subbed) GUGLIELMO VICARIO</title>
-    <sub-title>From nightclubbing with his teammates whilst playing in Serie D in Italy, to Tottenham’s number 1, Guglielmo Vicario has had an incredible journey. This week’s Big Interview hears about the difficulties he faced breaking through at various clubs, battling relegation, his hopes for the future with Spurs as well as his aims for Euro 2024 with Italy.</sub-title>
+  <programme channel="os12" start="20240523213000 +0000" stop="20240523220000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga Show</sub-title>
+    <desc>LaLiga Show 2023/2024</desc>
   </programme>
-  <programme channel="os11" start="20240516130000 +0000" stop="20240516133000 +0000">
-    <title>MATCH HIGHLIGHTS 23/24 MW37 Brighton &amp; Hove Albion v Chelsea</title>
-    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  <programme channel="os12" start="20240523220000 +0000" stop="20240523233000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>Viva LaLiga</sub-title>
+    <desc>Viva LaLiga 2023/2024</desc>
   </programme>
-  <programme channel="os11" start="20240516133000 +0000" stop="20240516140000 +0000">
-    <title>MATCH HIGHLIGHTS 23/24 MW37 Manchester United v Newcastle United</title>
-    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
-  </programme>
-  <programme channel="os11" start="20240516140000 +0000" stop="20240516143000 +0000">
-    <title>PL STORIES EP48: HALL OF FAME 2024 INDUCTEES</title>
-    <sub-title>We head to London to go behind the scenes at the Premier League Hall of fame event night and meet the three newest inductees to secure their place amongst English footballs elite!</sub-title>
-  </programme>
-  <programme channel="os11" start="20240516143000 +0000" stop="20240516163000 +0000">
-    <title>CLASSIC MATCH 11/12 MNC v QPR</title>
-    <sub-title>We delve into the Premier League archive to bring you a Classic Match from the 2011/2012 season.</sub-title>
-  </programme>
-  <programme channel="os11" start="20240516163000 +0000" stop="20240516173000 +0000">
-    <title>PL MOMENTS EP01: PETER DRURY</title>
-    <sub-title>Legendary commentator Peter Drury puts down his mic and swaps the stadium gantry for the warmth of the studio alongside Manish Bhasin, as he reminisces upon the 10 greatest moments he’s witnessed in Premier League History.</sub-title>
-  </programme>
-  <programme channel="os11" start="20240516173000 +0000" stop="20240516180000 +0000">
-    <title>MATCH HIGHLIGHTS 23/24 MW37 Manchester United v Newcastle United</title>
-    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
-  </programme>
-  <programme channel="os11" start="20240516180000 +0000" stop="20240516183000 +0000">
-    <title>MATCH HIGHLIGHTS 23/24 MW37 Brighton &amp; Hove Albion v Chelsea</title>
-    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
-  </programme>
-  <programme channel="os11" start="20240516183000 +0000" stop="20240516193000 +0000">
-    <title>PL STORIES EP50: (Subbed) ANGE POSTECOGLOU</title>
-    <sub-title>From humble beginnings as a footballer in Melbourne to becoming Tottenham’s manager, we chart the meteoric rise of Australian Ange Postecoglou. We speak to those that knew him best to find out what makes him tick and delve into his unique coaching style that has brought him success wherever he’s been.</sub-title>
-  </programme>
-  <programme channel="os11" start="20240516193000 +0000" stop="20240516200000 +0000">
-    <title>THE BIG INTERVIEW EP41: (Subbed) GUGLIELMO VICARIO</title>
-    <sub-title>From nightclubbing with his teammates whilst playing in Serie D in Italy, to Tottenham’s number 1, Guglielmo Vicario has had an incredible journey. This week’s Big Interview hears about the difficulties he faced breaking through at various clubs, battling relegation, his hopes for the future with Spurs as well as his aims for Euro 2024 with Italy.</sub-title>
-  </programme>
-  <programme channel="os11" start="20240516200000 +0000" stop="20240516210000 +0000">
-    <title>THE CATCH-UP SHOW EP40</title>
-    <sub-title>The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</sub-title>
-  </programme>
-  <programme channel="os11" start="20240516210000 +0000" stop="20240516213000 +0000">
-    <title>FREDDIE LJUNGBERG'S UNSEEN EP03: ASHLEY COLE</title>
-    <sub-title>In partnership with Viaplay, the latest episode of Freddie Ljungberg’s UNSEEN sees him reunited with fellow Arsenal Invincible Ashley Cole as they discuss that magical unbeaten 2003/04 season and Cole’s remarkable career boasting 13 major trophies.</sub-title>
-  </programme>
-  <programme channel="os11" start="20240516213000 +0000" stop="20240516220000 +0000">
-    <title>FREDDIE LJUNGBERG'S UNSEEN EP08: SOL CAMPBELL</title>
-    <sub-title>In partnership with Viaplay, this week Freddie Ljungberg catches up with fellow Invincible Sol Campbell to reminisce about Arsenal's remarkable unbeaten season 20 years ago.</sub-title>
-  </programme>
-  <programme channel="os11" start="20240516220000 +0000" stop="20240516223000 +0000">
-    <title>MATCH HIGHLIGHTS 23/24 MW37 Tottenham Hotspur v Manchester City</title>
-    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
-  </programme>
-  <programme channel="os11" start="20240516223000 +0000" stop="20240516233000 +0000">
-    <title>1-TO-11 EP02: LAUREN</title>
-    <sub-title>Lauren joins Will Perry on the 1-to-11 sofa to select his all-time best eleven teammates. They dig into his career, recalling standout players and memorable moments.</sub-title>
-  </programme>
-  <programme channel="os11" start="20240516233000 +0000" stop="20240517000000 +0000">
-    <title>PL STORIES EP35: AFRICAN ICONS IN THE PREMIER LEAGUE</title>
-    <sub-title>We discover the impact that African players have had on the Premier League. We hear from the key figures as we track the growth of African influence: from the trail blazers in the early 90s; the Champions who have lifted the Premier League trophy; the modern greats such as Mane, Salah and Mahrez who have set new standards for African footballers; right up to the players who are leaving their mark in the Premier League this season, making Africa’s influence greater than ever before.</sub-title>
+  <programme channel="os12" start="20240523233000 +0000" stop="20240524000000 +0000">
+    <title>LaLiga TV</title>
+    <sub-title>LaLiga World</sub-title>
+    <desc>LaLiga World 2023/2024</desc>
   </programme>
   <programme channel="os11" start="20240517000000 +0000" stop="20240517010000 +0000">
     <title>PL STORIES EP50: (Subbed) ANGE POSTECOGLOU</title>
@@ -2041,5 +1796,129 @@
   <programme channel="os11" start="20240522230000 +0000" stop="20240522235200 +0000">
     <title>PL STORIES EP51: CHAMPIONS SPECIAL</title>
     <sub-title>Season 2023 - 2024 has arguably been the greatest since the birth of the Premier League in 1992. Three elite teams racing to the finish line. Each of them believing this season will end in glory. The script of the story is captivating. Manchester City going for an historic fourth consecutive Premier League title. Arsenal looking for their first title in twenty years following their late season collapse in 2023. Liverpool looking to give their manager Jurgen Klopp the perfect send off as he says good-bye to Anfield after nine years. With the help of leading celebrity fans, the managers and senior players each twist and turn of the season is highlighted. The narrative of the season is like no other. The Champions Story 2023 - 2024 tells a very special story.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523000000 +0000" stop="20240523005200 +0000">
+    <title>REVIEW MON 20 MAY</title>
+    <sub-title>All the highlights from The Final Day, including the title challengers Arsenal hosting Everton and Manchester City v West Ham.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523010000 +0000" stop="20240523015200 +0000">
+    <title>THE CATCH-UP SHOW EP41</title>
+    <sub-title>The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523020000 +0000" stop="20240523022600 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW38 Arsenal v Everton</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523023000 +0000" stop="20240523032200 +0000">
+    <title>PL MOMENTS EP09: THIERRY HENRY'S TOP 10 PL MOMENTS</title>
+    <sub-title>Thierry Henry joins Will Perry on the sofa to count down his all-time top ten Premier League Moments.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523033000 +0000" stop="20240523042200 +0000">
+    <title>PL STORIES EP51: CHAMPIONS SPECIAL</title>
+    <sub-title>Season 2023 - 2024 has arguably been the greatest since the birth of the Premier League in 1992. Three elite teams racing to the finish line. Each of them believing this season will end in glory. The script of the story is captivating. Manchester City going for an historic fourth consecutive Premier League title. Arsenal looking for their first title in twenty years following their late season collapse in 2023. Liverpool looking to give their manager Jurgen Klopp the perfect send off as he says good-bye to Anfield after nine years. With the help of leading celebrity fans, the managers and senior players each twist and turn of the season is highlighted. The narrative of the season is like no other. The Champions Story 2023 - 2024 tells a very special story.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523043000 +0000" stop="20240523045600 +0000">
+    <title>PL STORIES EP48: HALL OF FAME 2024 INDUCTEES</title>
+    <sub-title>We head to London to go behind the scenes at the Premier League Hall of fame event night and meet the three newest inductees to secure their place amongst English footballs elite!</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523050000 +0000" stop="20240523052600 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW38 Chelsea v Bournemouth</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523053000 +0000" stop="20240523055600 +0000">
+    <title>FREDDIE LJUNGBERG'S UNSEEN EP10:</title>
+    <sub-title>In partnership with Viaplay, former Arsenal Invincible Freddie Ljungberg reveals the secrets of succeeding in the Premier League, in discussion with a host of Premier League stars both past &amp; present.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523060000 +0000" stop="20240523065200 +0000">
+    <title>THE CATCH-UP SHOW EP41</title>
+    <sub-title>The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523070000 +0000" stop="20240523075200 +0000">
+    <title>REVIEW MON 20 MAY</title>
+    <sub-title>All the highlights from The Final Day, including the title challengers Arsenal hosting Everton and Manchester City v West Ham.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523080000 +0000" stop="20240523085200 +0000">
+    <title>PL STORIES EP51: CHAMPIONS SPECIAL</title>
+    <sub-title>Season 2023 - 2024 has arguably been the greatest since the birth of the Premier League in 1992. Three elite teams racing to the finish line. Each of them believing this season will end in glory. The script of the story is captivating. Manchester City going for an historic fourth consecutive Premier League title. Arsenal looking for their first title in twenty years following their late season collapse in 2023. Liverpool looking to give their manager Jurgen Klopp the perfect send off as he says good-bye to Anfield after nine years. With the help of leading celebrity fans, the managers and senior players each twist and turn of the season is highlighted. The narrative of the season is like no other. The Champions Story 2023 - 2024 tells a very special story.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523090000 +0000" stop="20240523092600 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW38 Manchester City v West Ham United</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523093000 +0000" stop="20240523095600 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW38 Arsenal v Everton</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523100000 +0000" stop="20240523105200 +0000">
+    <title>PL MOMENTS EP09: THIERRY HENRY'S TOP 10 PL MOMENTS</title>
+    <sub-title>Thierry Henry joins Will Perry on the sofa to count down his all-time top ten Premier League Moments.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523110000 +0000" stop="20240523115200 +0000">
+    <title>THE CATCH-UP SHOW EP41</title>
+    <sub-title>The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523120000 +0000" stop="20240523122600 +0000">
+    <title>FANTASY SHOW MON 20 MAY</title>
+    <sub-title>With the 2023/24 season done and dusted, Ian Irving, Sam Bonfield and Gianni Butticé review another rollercoaster season of FPL, picking out some of their Fantasy highs and lows.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523123000 +0000" stop="20240523125600 +0000">
+    <title>FREDDIE LJUNGBERG'S UNSEEN EP10:</title>
+    <sub-title>In partnership with Viaplay, former Arsenal Invincible Freddie Ljungberg reveals the secrets of succeeding in the Premier League, in discussion with a host of Premier League stars both past &amp; present.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523130000 +0000" stop="20240523135200 +0000">
+    <title>KELLY &amp; WRIGHTY MON 20 MAY</title>
+    <sub-title>The final show of the season is here! Kelly &amp; Wrighty are joined by Michael Owen, Nedum Onuoha and Darren Lewis to reflect on one of the greatest Premier League campaigns in history. We also say our goodbyes to some top flight legends.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523140000 +0000" stop="20240523145200 +0000">
+    <title>PL STORIES EP51: CHAMPIONS SPECIAL</title>
+    <sub-title>Season 2023 - 2024 has arguably been the greatest since the birth of the Premier League in 1992. Three elite teams racing to the finish line. Each of them believing this season will end in glory. The script of the story is captivating. Manchester City going for an historic fourth consecutive Premier League title. Arsenal looking for their first title in twenty years following their late season collapse in 2023. Liverpool looking to give their manager Jurgen Klopp the perfect send off as he says good-bye to Anfield after nine years. With the help of leading celebrity fans, the managers and senior players each twist and turn of the season is highlighted. The narrative of the season is like no other. The Champions Story 2023 - 2024 tells a very special story.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523150000 +0000" stop="20240523152600 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW38 Manchester City v West Ham United</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523153000 +0000" stop="20240523155600 +0000">
+    <title>NETBUSTERS EP40</title>
+    <sub-title>Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523160000 +0000" stop="20240523165200 +0000">
+    <title>THE CATCH-UP SHOW EP41</title>
+    <sub-title>The Catch-Up Show is your chance to relive the 'best bits' from across the Premier League week with a compilation of all PLP content and programming.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523170000 +0000" stop="20240523175200 +0000">
+    <title>PL MOMENTS EP09: THIERRY HENRY'S TOP 10 PL MOMENTS</title>
+    <sub-title>Thierry Henry joins Will Perry on the sofa to count down his all-time top ten Premier League Moments.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523180000 +0000" stop="20240523182600 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW38 Brighton &amp; Hove Albion v Manchester United</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523183000 +0000" stop="20240523185600 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW38 Luton Town v Fulham</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523190000 +0000" stop="20240523195200 +0000">
+    <title>REVIEW MON 20 MAY</title>
+    <sub-title>All the highlights from The Final Day, including the title challengers Arsenal hosting Everton and Manchester City v West Ham.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523200000 +0000" stop="20240523205200 +0000">
+    <title>PL STORIES EP51: CHAMPIONS SPECIAL</title>
+    <sub-title>Season 2023 - 2024 has arguably been the greatest since the birth of the Premier League in 1992. Three elite teams racing to the finish line. Each of them believing this season will end in glory. The script of the story is captivating. Manchester City going for an historic fourth consecutive Premier League title. Arsenal looking for their first title in twenty years following their late season collapse in 2023. Liverpool looking to give their manager Jurgen Klopp the perfect send off as he says good-bye to Anfield after nine years. With the help of leading celebrity fans, the managers and senior players each twist and turn of the season is highlighted. The narrative of the season is like no other. The Champions Story 2023 - 2024 tells a very special story.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523210000 +0000" stop="20240523215200 +0000">
+    <title>PL STORIES EP50: (Subbed) ANGE POSTECOGLOU</title>
+    <sub-title>From humble beginnings as a footballer in Melbourne to becoming Tottenham’s manager, we chart the meteoric rise of Australian Ange Postecoglou. We speak to those that knew him best to find out what makes him tick and delve into his unique coaching style that has brought him success wherever he’s been.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523220000 +0000" stop="20240523222600 +0000">
+    <title>THE BIG INTERVIEW EP41: (Subbed) GUGLIELMO VICARIO</title>
+    <sub-title>From nightclubbing with his teammates whilst playing in Serie D in Italy, to Tottenham’s number 1, Guglielmo Vicario has had an incredible journey. This week’s Big Interview hears about the difficulties he faced breaking through at various clubs, battling relegation, his hopes for the future with Spurs as well as his aims for Euro 2024 with Italy.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523223000 +0000" stop="20240523225600 +0000">
+    <title>MATCH HIGHLIGHTS 23/24 MW38 Sheffield United v Tottenham Hotspur</title>
+    <sub-title>Each Premier League game from the 2023/24 season condensed into an individual 26-minute highlights show.</sub-title>
+  </programme>
+  <programme channel="os11" start="20240523230000 +0000" stop="20240523235200 +0000">
+    <title>REVIEW MON 20 MAY</title>
+    <sub-title>All the highlights from The Final Day, including the title challengers Arsenal hosting Everton and Manchester City v West Ham.</sub-title>
   </programme>
 </tv>
